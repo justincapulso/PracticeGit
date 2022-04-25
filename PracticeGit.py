@@ -1,4 +1,5 @@
 #Thisopsjvpiaj pjgisjvn abv
 
 name = input("Name: ")
-print(name)
+age = input("Age: ")
+print(name, age)
